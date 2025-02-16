@@ -21,8 +21,9 @@ DataSet/
 
 # For yaml File do these changes
 
-![image](https://github.com/user-attachments/assets/9344089f-ebae-48c6-906b-bd54b980dfeb)
+![image](https://github.com/user-attachments/assets/0f411f60-173c-42c8-b1a8-a9b5dad96eeb)
 
+Define the number of classes and names below the above in the yaml file
 
 
        
